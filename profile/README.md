@@ -1,5 +1,6 @@
-# HidupSehat: An All-in-One Healthy Lifestyle Assistant App 👋
-
+![HidupSehat Logo](https://raw.githubusercontent.com/Hidup-Sehat/.github/main/profile/Full%20Logo-ldpi.png "HidupSehat Logo")
+# HidupSehat: An All-in-One Healthy Lifestyle Assistant App
+C23-PS301
 <!--
 
 **Here are some ideas to get you started:**
