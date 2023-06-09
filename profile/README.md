@@ -1,7 +1,7 @@
 ![HidupSehat Logo](https://raw.githubusercontent.com/Hidup-Sehat/.github/main/profile/Full%20Logo-ldpi.png "HidupSehat Logo")
-# Overview
+# C23-PS301 HidupSehat:_All-in-one Healthy Lifestyle Assistant App_
 # About Us
-C23-PS301
+
 ## Our Teams
 ### Machine Learning Division
 | Bangkit ID | Name | University |
