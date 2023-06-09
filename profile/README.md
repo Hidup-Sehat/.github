@@ -1,5 +1,6 @@
 ![HidupSehat Logo](https://raw.githubusercontent.com/Hidup-Sehat/.github/main/profile/Full%20Logo-ldpi.png "HidupSehat Logo")
-# HidupSehat: An All-in-One Healthy Lifestyle Assistant App
+# Overview
+# About Us
 C23-PS301
 <!--
 
