@@ -8,19 +8,19 @@ We want to create an all-in-one application that can help describing and providi
 ## Our Teams
 ### Machine Learning Division
 | Bangkit ID | Name | University | Profile |
-|:----------:|:----:|--------------|:--------:|
+|:----------:|:----:|:----------:|:-------:|
 |M261DKX4136|Fazri Rahmad Nor Gading|Mulawarman University|<a href="https://www.linkedin.com/in/fazrigading" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
 |M151DSX3422|Al’Ravie Mutiar Mahesa|Brawijaya University|<a href="https://www.linkedin.com/in/al-ravie-mahesa-a45299216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
 
 ### Cloud Computing Division
 | Bangkit ID | Name | University | Profile |
-|:----------:|:----:|--------------|:--------:|
+|:----------:|:----:|:----------:|:-------:|
 |C151DKX4249|Edy Setiawan|Brawijaya University|<a href="https://www.linkedin.com/in/e-edsen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
-|C085DSX3173|I Wayan Natura Adnyana|Institut Bisnis dan Teknologi|<a href="https://www.linkedin.com/in/natura-adnyana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
+|C085DSX3173|I Wayan Natura Adnyana|Institut Bisnis dan Teknologi Indonesia|<a href="https://www.linkedin.com/in/natura-adnyana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
 
 ### Mobile Development Division
 | Bangkit ID | Name | University | Profile |
-|:----------:|:----:|--------------|:--------:|
+|:----------:|:----:|:----------:|:-------:|
 |A331DSX1088|Rijal Muhyidin|Sains Al Qur’an University|<a href="https://www.linkedin.com/in/rijalmyd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
 |A047DKX4434|Hafid Ali Mustaqim|Politeknik Elektronika Negeri Surabaya|<a href="https://www.linkedin.com/in/hafid-ali-mustaqim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" alt="fazrigading" height="30" width="30"/></a>|
 
