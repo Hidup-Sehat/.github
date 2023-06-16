@@ -1,5 +1,5 @@
 # [C23-PS301] HidupSehat: _All-in-one Healthy Lifestyle App_
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/Hidup-Sehat/.github/main/profile/Horizontal%20Logo-whitebg.svg" alt="HidupSehat Logo"/></p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/Hidup-Sehat/.github/main/profile/Horizontal%20Logo-whitebg.png" alt="HidupSehat Logo"/></p>
 
 # About Us
 We want to create an all-in-one application that can help describing and providing a comprehensive healthy living by focusing on healthy lifestyle concerns such as regulating food habits, drinking lots of water, managing mental health and stress, exercising frequently, and getting enough rest. Users can easily accomplish this with the assistance of Artificial Intelligence.
